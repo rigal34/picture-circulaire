@@ -1,0 +1,6 @@
+.image-arrondie {
+    border-radius: 50%;
+    width: 200px; /* Vous pouvez ajuster la largeur de l'image ici */
+    height: 200px; /* Vous pouvez ajuster la hauteur de l'image ici */
+    object-fit: cover; /* Permet de conserver le ratio de l'image */
+}
